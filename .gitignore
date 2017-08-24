@@ -1,0 +1,9 @@
+
+*.pyc
+
+#Integrated development environment folder
+.idea/
+
+app.log
+test.db
+docs/build/
