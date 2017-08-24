@@ -15,6 +15,7 @@ your Python virtual environment.
 pip install virtualenv
 ```
 If on Windows, also install the virtualenv wrapper for Windows
+
 ```
 pip install virtualenvwrapper-win
 ```
